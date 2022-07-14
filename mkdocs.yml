@@ -1,0 +1,21 @@
+site_name: BX Homework Sharing
+nav:
+- Home: index.md
+- CSE:
+  - CSE101.md
+  - CSE102.md
+  - CSE103.md
+  - CSE104.md
+  - CSE201.md
+  - CSE202.md
+  - CSE203.md
+  - CSE204.md
+  - CSE205.md
+  - CSE206.md
+  - CSE301.md
+  - CSE302.md
+  - CSE303.md
+  - CSE304.md
+  - CSE305.md
+  - CSE306.md
+  - CSE307.md
