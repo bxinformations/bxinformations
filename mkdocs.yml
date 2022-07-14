@@ -1,4 +1,7 @@
 site_name: BX Homework Sharing
+theme: 'readthedocs'
+remote_branch: gh-pages
+remote_name: origin
 nav:
 - Home: index.md
 - CSE:
